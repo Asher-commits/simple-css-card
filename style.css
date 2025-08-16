@@ -10,8 +10,7 @@ body {
     border-radius: 10px;
     padding: 20px;
     text-align: center;
-    background-color: white;
-     
+    background-color: white;   
 }
 
 .card:hover {
@@ -23,7 +22,6 @@ body {
     background-color: yellow;
     padding: 5px;
     border-radius: 5px;
-
 
 }
 
